@@ -1,0 +1,6 @@
+Version("vrz"):Gets the version
+Date("dt"):Gets the current date and time
+Directory("dir"):Gets the files in the current directory
+History("ht"):Displays a history of commands used
+
+Exit("exit"): Exits the shell

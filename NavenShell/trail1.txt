@@ -1,0 +1,4 @@
+set 42,ax
+set 43,bx
+jgt ax
+END
