@@ -3,8 +3,8 @@
 
 **1.1 System Overview**		
 
-	NavenOS is a simple operating system, which allows a simple and quick user experience. 
-	NavenOS is programmed to create an easy interaction between the user and programs the OS includes; furthermore flexible and easy to use. 
+	NavenOS is a simple operating system, which allows a simple and quick user experience.NavenOS is programmed to create an easy interaction 
+	between the user and programs the OS includes; furthermore flexible and easy to use. 
 
 # [2. Description of Classes]
 **NavenOS.java**
